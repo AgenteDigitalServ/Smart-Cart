@@ -1,0 +1,7 @@
+{
+  "name": "Smart Cart",
+  "description": "A smart shopping cart application that allows users to scan barcodes and track their total spending in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
